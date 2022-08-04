@@ -1,0 +1,7 @@
+ice-cream-server/venv
+ice-cream-server/.idea
+ice-cream-server/ngrok.exe
+ice-cream-server/controller/__pycache__
+ice-cream-server/db/__pycache__
+ice-cream-server/model/__pycache__
+ice-cream-web-app-master/ngrok.exe
